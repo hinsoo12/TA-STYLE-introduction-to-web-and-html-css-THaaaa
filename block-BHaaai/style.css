@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(18, 4, 99);
+    color: white;
+}
+
+header {
+    text-align: center;
+}
+
+h2 {
+    color: green;
+}
+
+a {
+    color: red;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(30, 30, 31);
+    padding: 10px;
+}
