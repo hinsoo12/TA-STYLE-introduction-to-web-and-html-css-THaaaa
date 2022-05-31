@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(18, 25, 88);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+}
+
+h2 {
+    color: rgb(3, 100, 3);
+}
+
+h3 {
+    color: aliceblue;
+}
+
+p {
+    color: rgb(222, 223, 224);
+}
+
+ul {
+    list-style-type: none;
+    color: antiquewhite;
+}
+
+a {
+    color: red;
+}
+
+.style-paragraph {
+    color: rgb(255, 255, 255);
+    font-size: 23px;
+}
+
+address {
+    color: antiquewhite;
+}
